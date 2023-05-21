@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var consumoTotal = 0;","map":{"version":3,"names":["consumoTotal"],"sources":["C:/Users/PC/Desktop/Projeto/Energia_I_E/utils.js"],"sourcesContent":["export let consumoTotal = 0;"],"mappings":"AAAA,OAAO,IAAIA,YAAY,GAAG,CAAC"},"metadata":{},"sourceType":"module","externalDependencies":[]}
